@@ -1,2 +1,3 @@
 # ReatReduxWeather
-Weather App created with react-redux
+
+Weather App created with react-redux.
